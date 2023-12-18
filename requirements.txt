@@ -1,1 +1,1 @@
-pip install -q -U google-generativeai
+pip install google-generativeai
